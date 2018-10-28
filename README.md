@@ -8,3 +8,5 @@ works (returns an HTTP 200), then store it in a Python dictionary.
 
 See `BookmarkServer.py` for starter code and instructions.
 
+This server is deployed in https://bookmarkyoururl.herokuapp.com/.
+
